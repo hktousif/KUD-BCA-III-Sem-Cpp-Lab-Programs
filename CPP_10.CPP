@@ -1,3 +1,6 @@
+/*
+10) Write a program to implement operation on stack.
+*/
 #include<conio.h>
 #include<iostream.h>
 #define SIZE 5
