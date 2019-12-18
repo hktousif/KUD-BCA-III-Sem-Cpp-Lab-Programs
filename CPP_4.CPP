@@ -1,3 +1,6 @@
+/*
+4) Write a program to create electricity bill
+*/
 #include<conio.h>
 #include<iostream.h>
 class ebill
