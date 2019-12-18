@@ -1,3 +1,7 @@
+/*
+7) Write a program to perform addition of two matrices using operator
+overloading
+*/
 #include<conio.h>
 #include<iostream.h>
 class matrix
