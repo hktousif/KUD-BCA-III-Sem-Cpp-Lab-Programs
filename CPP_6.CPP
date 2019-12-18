@@ -1,3 +1,6 @@
+/*
+6) Write a program to perform bank transaction
+*/
 #include<iostream.h>
 #include<conio.h>
 class bank
