@@ -1,4 +1,4 @@
-# KUD-BCA-III-Sem-Lab-Programs
+# KUD-BCA-III-Sem- C++ Lab-Programs
 BCA - 306: COMPUTER LAB 3.1 (Based on BCA 302)
 Sample programs:
 1) Write a program to implement digital clock
