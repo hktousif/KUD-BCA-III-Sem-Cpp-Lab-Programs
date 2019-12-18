@@ -1,3 +1,6 @@
+/*
+11) Write a program to add two distance variable.
+*/
 #include<iostream.h>
 #include<conio.h>
 class distance
