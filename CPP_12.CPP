@@ -1,3 +1,7 @@
+/*
+12) Write a program to implement operation on queue.
+
+*/
 #include<iostream.h>
 #include<conio.h>
 #define SIZE 5
