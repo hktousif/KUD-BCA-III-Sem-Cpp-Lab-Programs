@@ -1,3 +1,6 @@
+/*
+15) Write a program to compare two string using equal to operator
+*/
 #include<iostream.h>
 #include<conio.h>
 #include<string.h>
