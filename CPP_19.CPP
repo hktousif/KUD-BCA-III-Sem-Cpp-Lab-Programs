@@ -1,3 +1,6 @@
+/*
+19) Write a program to add two time variable
+*/
 #include<iostream.h>
 #include<conio.h>
 class time
