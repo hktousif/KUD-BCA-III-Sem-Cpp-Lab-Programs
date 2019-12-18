@@ -1,3 +1,7 @@
+/*
+1)	Write a program to implement digital clock
+*/
+
 #include<conio.h>
 #include<iostream.h>
 #include<dos.h>
