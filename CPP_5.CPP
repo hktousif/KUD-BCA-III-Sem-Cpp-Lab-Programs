@@ -1,3 +1,6 @@
+/*
+5) Write a program to prepare a shopping lists
+*/
 #include<conio.h>
 #include<iostream.h>
 class s_list
