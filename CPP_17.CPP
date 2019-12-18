@@ -1,3 +1,6 @@
+/*
+17) Write a program to find maximum of 2 Nos. using friend function.
+*/
 #include<iostream.h>
 #include<conio.h>
 class Max
