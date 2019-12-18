@@ -1,3 +1,6 @@
+/*
+2) Write a program to swap two numbers using friend function
+*/
 #include<iostream.h>
 #include<conio.h>
 class num
