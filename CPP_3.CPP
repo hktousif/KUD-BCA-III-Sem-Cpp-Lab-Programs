@@ -1,3 +1,7 @@
+/*
+ Write a program to calculate area and circumference of circle using inline
+function
+*/
 #include<conio.h>
 #include<iostream.h>
 #define pi 3.143
