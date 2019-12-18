@@ -1,3 +1,6 @@
+/*
+18) Write a program to create a student report using inheritance technique.
+*/
 #include<iostream.h>
 #include<conio.h>
 class basic_info
