@@ -1,3 +1,7 @@
+/*
+9) Write a program to find sum of complex number using friend function.	
+*/
+
 #include<conio.h>
 #include<iostream.h>
 class complex
