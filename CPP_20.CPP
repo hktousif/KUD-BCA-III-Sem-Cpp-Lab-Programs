@@ -1,3 +1,6 @@
+/*
+20) Write a program to implement area of geometrical figures.
+*/
 #include<conio.h>
 #include<iostream.h>
 #define pi 3.143
