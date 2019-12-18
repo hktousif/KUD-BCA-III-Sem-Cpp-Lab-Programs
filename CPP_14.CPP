@@ -1,3 +1,6 @@
+/*
+14) Write a program to find the maximum of two numbers using template.
+*/
 #include<iostream.h>
 #include<conio.h>
 template<class T>
